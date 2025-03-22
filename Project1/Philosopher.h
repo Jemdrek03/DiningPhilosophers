@@ -13,10 +13,11 @@ enum class State{
     Eating = 2,
 };
 
-void philosophers(int id, int howMany, std::unique_ptr<std::mutex> forks[]);
+void philosophers(int id, int howMany, std::unique_ptr<std::mutex> forks[], int forkies[], State state[]);
 void pickUpForks(int id, int howMany, std::unique_ptr<std::mutex> forks[], State state[], int forkies[]);
 void putDownForks(int id, int howMany, std::unique_ptr<std::mutex> forks[], State state[]);
 void gotHungy(int id, State state[]);
-void eating(int id);
+void eating(int id, int forkies[], int howMany);
+
 
 #endif
