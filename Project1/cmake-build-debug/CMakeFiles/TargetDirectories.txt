@@ -1,0 +1,3 @@
+C:/Users/gagat/Pulpit/SO_Project1/DiningPhilosophers/Project1/cmake-build-debug/CMakeFiles/DiningPhilosophers.dir
+C:/Users/gagat/Pulpit/SO_Project1/DiningPhilosophers/Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gagat/Pulpit/SO_Project1/DiningPhilosophers/Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

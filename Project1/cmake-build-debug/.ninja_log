@@ -1,0 +1,10 @@
+# ninja log v6
+30	1088	7643844147931725	CMakeFiles/DiningPhilosophers.dir/main.cpp.obj	a059da334f7309d8
+28	880	7643832196153429	CMakeFiles/DiningPhilosophers.dir/Philosopher.cpp.obj	acf8d84e72773cb4
+1089	1294	7643844158516350	DiningPhilosophers.exe	16d00f697b968fb8
+24	885	7643838781922527	CMakeFiles/DiningPhilosophers.dir/Dijkstra.cpp.obj	78ad9da42edd7f17
+52	977	7644702988087860	build.ninja	bba856350b40b47
+40	1141	7644702989268335	CMakeFiles/DiningPhilosophers.dir/Dijkstra.cpp.obj	78ad9da42edd7f17
+37	1146	7644702989233610	CMakeFiles/DiningPhilosophers.dir/Philosopher.cpp.obj	acf8d84e72773cb4
+33	1228	7644702989203847	CMakeFiles/DiningPhilosophers.dir/main.cpp.obj	a059da334f7309d8
+1229	1689	7644703001152482	DiningPhilosophers.exe	16d00f697b968fb8
