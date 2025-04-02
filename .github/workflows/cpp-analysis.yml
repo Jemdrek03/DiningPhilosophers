@@ -24,4 +24,5 @@ jobs:
       - name: Run clang-tidy
         run: |
           cd build
-          clang-tidy ../**/*.cpp -- -I../include
+          clang-tidy ../Project1/*.cpp -- -I../Project1
+
