@@ -68,7 +68,7 @@ void eatingD(int id, int forkies[], int howMany){
     std::cout << "Philosopher " << id << " is currently eating\n";
     for(int i = 0; i < howMany; i++)
     {
-        std::cout<<"Widelec "<<i<<" trzymany przez: "<<forkies[i]<<std::endl;
+        std::cout<<"Fork "<<i<<" is being held by: "<<forkies[i]<<std::endl;
     }
     outputD.unlock();
     std::this_thread::sleep_for(std::chrono::milliseconds (500));
