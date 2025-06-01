@@ -9,8 +9,6 @@ add_executable(Project2 main.cpp
         Server.h
         ClientHandler.cpp
         ClientHandler.h
-        MessageQueue.cpp
-        MessageQueue.h
         Client.cpp
         Client.h)
 
